@@ -3,3 +3,10 @@ This is a very simplified repository for custom object detection .If you want to
 
 # Steps 
   - Setting up tensorflow-gpu (if your GPU supports CUDA)
+  - Image gathering 
+  - Image annotation
+  - Setting up environment
+  - Setting up darkflow
+  - File editing in Darkflow folder
+  - Training
+  - Predicting 
