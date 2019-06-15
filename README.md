@@ -17,8 +17,8 @@ This is a very simplified repository for custom object detection .If you want to
    - First of all check your GPU is compatible with CUDA or not ?
    
      [CUDA comapatible GPUs](https://developer.nvidia.com/cuda-gpus)
-   - Then install anaconda cloud.  [from here](https://www.anaconda.com/distribution/)
-   
+   - Then install anaconda cloud.  [from here](https://www.anaconda.com/distribution/) 
+     Note - while installing anaconda    
    
  
      
