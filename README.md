@@ -14,9 +14,13 @@ This is a very simplified repository for custom object detection .If you want to
    
    This step is the most time taking step as during this step anyone can face lot of errors.So I will try my best to give you steps so that    you will not encounter any error.
    
-   First of all check your GPU is compatible with CUDA or not ?
+   - First of all check your GPU is compatible with CUDA or not ?
    
-   [CUDA comapatible GPUs](https://developer.nvidia.com/cuda-gpus)
+     [CUDA comapatible GPUs](https://developer.nvidia.com/cuda-gpus)
+     
+     
+   
+   
 
 
   
