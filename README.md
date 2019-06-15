@@ -20,7 +20,7 @@ This is a very simplified repository for custom object detection .If you want to
    - Then install anaconda cloud.  [from here](https://www.anaconda.com/distribution/) 
      Note - while installing anaconda please chech the anaconda add on my PATH variable 
      
-     ![alt text](https://github.com/Boltuzamaki/Custom-Object-Detection-Using-Darkflow-       Simplified-/blob/master/images%20support%20file/anaconda.PNG)
+     ![alt text](https://github.com/Boltuzamaki/Custom-Object-Detection-Using-Darkflow-    Simplified-/blob/master/images%20support%20file/anaconda.PNG)
    
  
      
