@@ -18,8 +18,9 @@ This is a very simplified repository for custom object detection .If you want to
    
      [CUDA comapatible GPUs](https://developer.nvidia.com/cuda-gpus)
    - Then install anaconda cloud.  [from here](https://www.anaconda.com/distribution/) 
-     Note - while installing anaconda chwck "the anaconda add on my PATH variable"
-     ![alt text](https://drive.google.com/file/d/1kjp81R6XHjxFnYQcyz-y7BANKlEBVXll/view?usp=sharing)
+     Note - while installing anaconda check "the anaconda add on my PATH variable"
+     ![alt text](https://github.com/Boltuzamaki/Custom-Object-Detection-Using-Darkflow-Simplified-/blob/master/images%20support%20file/anaconda.PNG)
+     
  
      
      
