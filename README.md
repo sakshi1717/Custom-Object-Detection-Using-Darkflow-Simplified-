@@ -37,10 +37,10 @@ This is a very simplified repository for custom object detection .If you want to
      Then add location of all the three folders of cuDNN.
      
      This will look something like this
-     ![alt text](https://github.com/Boltuzamaki/Custom-Object-Detection-Using-Darkflow-Simplified-/blob/master/images%20support%20file/3a.PNG)
+     ![alt text](https://github.com/Boltuzamaki/Custom-Object-Detection-Using-Darkflow-Simplified-/blob/master/images%20support%20file/3a.png?raw=true)
      
      - At last install tensorflow-gpu.
-        ** pip install --ignore-installed --upgrade tensorflow-gpu **
+        **pip install --ignore-installed --upgrade tensorflow-gpu**
      
      
      
