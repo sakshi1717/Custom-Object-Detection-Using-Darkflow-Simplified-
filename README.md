@@ -39,6 +39,8 @@ This is a very simplified repository for custom object detection .If you want to
      This will look something like this
      ![alt text](https://github.com/Boltuzamaki/Custom-Object-Detection-Using-Darkflow-Simplified-/blob/master/images%20support%20file/3a.PNG)
      
+     - At last install tensorflow-gpu.
+        ** pip install --ignore-installed --upgrade tensorflow-gpu **
      
      
      
