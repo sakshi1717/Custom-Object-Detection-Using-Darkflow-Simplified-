@@ -24,6 +24,7 @@ This is a very simplified repository for custom object detection .If you want to
      ![alt text](https://github.com/Boltuzamaki/Custom-Object-Detection-Using-Darkflow-Simplified-/blob/master/images%20support%20file/anaconda.PNG)
    - Then install Cuda Toolkit 9 [from here](https://developer.nvidia.com/cuda-90-download-archive).
      Download Base installer
+   
    -After then download Visual studio 19 [from here](https://visualstudio.microsoft.com/downloads/).Download community version.
     After installing it go to modify option and select "Desktop development with c++" and modify.You only need to download this 
     because it supports CUDA.
