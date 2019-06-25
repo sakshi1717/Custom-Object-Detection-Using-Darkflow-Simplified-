@@ -11,8 +11,10 @@ This is a very simplified repository for custom object detection .If you want to
   - Training
   - Predicting 
 # Setting up for installing tensorflow-gpu (skip if you already have)
+    
    
    This step is the most time taking step as during this step anyone can face lot of errors.So I will try my best to give you steps so that    you will not encounter any error.
+   Note -- Install all the package and dependencies version same as give below to avoid any error.
    
    - First of all check your GPU is compatible with CUDA or not ?
    
@@ -20,7 +22,17 @@ This is a very simplified repository for custom object detection .If you want to
    - Then install anaconda cloud.  [from here](https://www.anaconda.com/distribution/) 
      Note - while installing anaconda check"the anaconda add on my PATH variable"
      ![alt text](https://github.com/Boltuzamaki/Custom-Object-Detection-Using-Darkflow-Simplified-/blob/master/images%20support%20file/anaconda.PNG)
+   - Then install Cuda Toolkit 9 [from here](https://developer.nvidia.com/cuda-90-download-archive).
+     Download Base installer
+   -After then download Visual studio 19 [from here](https://visualstudio.microsoft.com/downloads/).Download community version.
+    After installing it go to modify option and select "Desktop development with c++" and modify.You only need to download this 
+    because it supports CUDA.
+    ![alt text](https://github.com/Boltuzamaki/Custom-Object-Detection-Using-Darkflow-Simplified-/blob/master/images%20support%20file/2.PNG)
+    
+    
+      
      
+   -  
  
      
      
