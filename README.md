@@ -32,7 +32,7 @@ This is a very simplified repository for custom object detection .If you want to
    - Download cuDNN version which is latest and supported by CUDA 9. [from here](https://developer.nvidia.com/rdp/cudnn-archive).
      and then extract it.
      It has three folders bin,include,lib we have to add this location to path variable.
-     for this,
+     For this,
      go to This PC->Properties ->Advance system setting -> Environment Variables ->Path 
      Then add location of all the three folders of cuDNN.
      
