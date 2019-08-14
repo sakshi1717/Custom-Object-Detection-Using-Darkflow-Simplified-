@@ -41,6 +41,25 @@ This is a very simplified repository for custom object detection .If you want to
      
    - At last install tensorflow-gpu.
         **pip install --ignore-installed --upgrade tensorflow-gpu**
+# Image Gathering 
+
+Now its time to gather a sufficient amount of image for training .
+
+### Methods 
+- If you want to train for simple looking image like an apple then just grap a cellphone and strat taking pictures of that object with different orientation and different backgrounds and diffrent angles try to make pictures much more diverse .
+- Other method you can download images from internet.You can use various api for this on which I would not go in much more detail.
+
+Note -- Try to take picture in a medium or low resolution to make training faster.
+
+# Image annotation 
+For image annotation there are many softwares but I prefer LabelImg which you can download from 
+[from here](https://tzutalin.github.io/labelImg/).Download latest version.
+--> If you know about YOLO then you know that for training we requires two types of file . One is image file and other is .xml file .XML file stores the co-ordinate and label of image present in the corresponding image.
+
+Now open LabelImg and start labelling your image and save all XML files in a different folder.
+You can see [THIS VIDEO ](https://www.youtube.com/watch?v=p0nR2YsCY_U) for how to use LabelImg?
+        
+        
      
      
      
